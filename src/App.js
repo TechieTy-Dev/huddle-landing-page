@@ -77,7 +77,7 @@ function App() {
 						</div>
 					</div>
 					{/* BENEFIT #2 */}
-					<div className="bg-white shadow w-[90%] mx-auto p-10 lg:flex rounded-3xl mb-12  lg:flex-row lg:justify-center lg:align-middle lg:items-center lg:text-left lg:mt-8 lg:w-[85%]">
+					<div className="bg-white shadow w-[90%] mx-auto p-10 lg:flex rounded-3xl mb-12  lg:flex-row lg:justify-center lg:align-middle lg:items-center lg:text-left lg:mt-8 lg:w-[85%] lg:mb-0">
 						<img
 							src={convo}
 							alt="group of people"
